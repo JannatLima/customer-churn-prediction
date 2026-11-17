@@ -53,6 +53,13 @@ The most influential features based on mean absolute SHAP values include:
 - Tech support
 - Internet service
 - Payment method
+### SHAP Summary Plot
+
+![SHAP Summary Plot](shap_summary_plot.png)
+
+### SHAP Feature Importance
+
+![SHAP Feature Importance](shap_feature_importance.png)
 
 ## Key Findings
 
